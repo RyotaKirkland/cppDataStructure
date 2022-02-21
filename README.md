@@ -1,6 +1,8 @@
 # cppDataStructure
 C++数据结构_(:з」∠)_  
 已经上传的部分：  
+2022/02/21  
+AdjGraph.h——图的邻接矩阵表示，包括图的基本操作、深度优先遍历（递归/非递归）与广度优先遍历  
 2022/02/18  
 LinearList.h——线性表  
 LinearQueue.h——线性队列  
